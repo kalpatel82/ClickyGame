@@ -1,0 +1,11 @@
+.nounderline {
+  text-decoration: none !important
+}
+
+#app-name {
+	font-weight: bold;
+}
+
+#navbar-dark{
+  float: left;
+}

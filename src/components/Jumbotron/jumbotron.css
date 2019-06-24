@@ -1,0 +1,16 @@
+.jumbotron {
+	/*  Background fallback in case of IE8 & down, or in case the image doesn't load, such as with slower connections  */
+	background: gray;
+
+	font-family: 'Mali', cursive;
+	height: 10rem;
+
+	width: auto;
+	text-align: center;
+	
+}
+
+h1, h4 {
+	color: #ffffff;
+	font-weight: bold;
+}
